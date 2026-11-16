@@ -1,7 +1,8 @@
 import { test } from '../fixtures/fixtures';
 import { prices } from '../../src/constants';
 import { 
-  priceFormatStr, 
+  priceFormatStr,
+  totalPriceFormatStr, 
   totalPrice
 } 
 from '../../src/common/helpers/getPriceForQuantity';
